@@ -16,6 +16,7 @@ Add this to your `.vimrc`:
 
 ```vim
 Plugin 'git@git-ssh.ikarem.io:mtahmed/click.vim.git'
+```
 
 ## NeoBundle
 
