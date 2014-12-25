@@ -7,7 +7,7 @@ Vim syntax highlighting for click files (.testie, .template, .click).
 ## pathogen
 
 ```sh
-git clone git@git-ssh.ikarem.io:mtahmed/click.vim.git ~/.vim/bundle/
+git clone git@github.com:mtahmed/click.vim.git ~/.vim/bundle/
 ```
 
 ## Vundle
@@ -15,7 +15,7 @@ git clone git@git-ssh.ikarem.io:mtahmed/click.vim.git ~/.vim/bundle/
 Add this to your `.vimrc`:
 
 ```vim
-Plugin 'git@git-ssh.ikarem.io:mtahmed/click.vim.git'
+Plugin 'mtahmed/click.vim'
 ```
 
 ## NeoBundle
@@ -23,5 +23,5 @@ Plugin 'git@git-ssh.ikarem.io:mtahmed/click.vim.git'
 Add this to your `.vimrc`:
 
 ```vim
-NeoBundle 'git@git-ssh.ikarem.io:mtahmed/click.vim.git'
+NeoBundle 'mtahmed/click.vim'
 ```
